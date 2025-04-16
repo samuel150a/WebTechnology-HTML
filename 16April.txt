@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> 
+
+<a href="https://www.x-workz.in/"><img src="./240_F_16818804_3zqaNN9Bg4Pojl8iiiRiDvP67P6OoYYi.jpg" alt=""></a>
+
+<iframe width="560" 
+height="315" src="https://www.youtube.com/embed/3PPQrbMGgnw?si=dYIEJWMFAWyPtv-g" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen>
+</iframe>
+
+
+
+<iframe
+src="https://www.x-workz.in/"
+frameborder="0"
+height="500px"
+width="500px"
+></iframe>
+
+
+<iframe
+src="https://www.wikipedia.org/"
+frameborder="0"
+height="500px"
+width="500px"
+></iframe>
+
+
+<iframe
+src="https://www.google.co.in/maps/@12.910592,77.5946517,15z?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoASAFQAw%3D%3D"
+frameborder="0"
+height="500px"
+width="500px"
+></iframe>
+
+
+<iframe width="560" 
+height="315" src="https://www.youtube.com/embed/NH7TtgVvPng?si=5AHN5DKYIaWoJixy" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/VR5xeJLU9vo?si=HUIWMj6WhCW4rDLM" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen>
+</iframe>
+
+
+<iframe width="560" 
+height="315" 
+src="https://www.youtube.com/embed/cIUfpgDCw68?si=xvarsO6rSWP-_iq6"
+ title="YouTube video player" 
+ frameborder="0" 
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+ referrerpolicy="strict-origin-when-cross-origin" 
+ allowfullscreen>
+</iframe>
+
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.8630652937263!2d77.60018857484042!3d12.916521387393821!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae15e2df6c9ccf%3A0xf1dc47ea7a6a133!2sX-workz%20BTM!5e0!3m2!1sen!2sin!4v1744784428879!5m2!1sen!2sin" 
+width="600" 
+height="450" 
+style="border:0;" 
+allowfullscreen="" 
+loading="lazy" 
+referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+
+<iframe width="560" 
+height="315" 
+src="https://www.youtube.com/embed/QB3p_C-H_tc?si=HOmvld2uLjBEGyMD" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin" 
+allowfullscreen>
+</iframe>
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3896.0924619903485!2d75.97743167483199!3d12.443559987825397!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba509e4c63196d3%3A0x4a16b6243c0058fd!2sBHARATHA%20MATHA%20SCHOOL%20KOPPA!5e0!3m2!1sen!2sin!4v1744784527683!5m2!1sen!2sin" 
+width="600" 
+height="450" 
+style="border:0;" 
+allowfullscreen="" 
+loading="lazy" 
+referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3894.427598558679!2d75.38185727483396!3d12.554032087724236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba4f2f67e5da441%3A0x551d1a165657bfc4!2sK.V.G.%20College%20of%20Engineering!5e0!3m2!1sen!2sin!4v1744784563617!5m2!1sen!2sin"
+ width="600" 
+ height="450" 
+ style="border:0;" 
+ allowfullscreen="" 
+ loading="lazy" 
+ referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15556.441518635207!2d77.61100964525697!3d12.900623348529896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae14eec814197d%3A0xcf0ad378f26271e9!2sBommanahalli%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1744784602243!5m2!1sen!2sin" 
+width="600" 
+height="450" 
+style="border:0;" 
+allowfullscreen="" 
+loading="lazy" 
+referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15583.651813421364!2d75.95702343607927!3d12.45551767006796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba509b87de46213%3A0xd2cd2b03ee3f011d!2sKushalnagar%2C%20Karnataka%20571234!5e0!3m2!1sen!2sin!4v1744784633571!5m2!1sen!2sin" 
+width="600" 
+height="450" 
+style="border:0;" 
+allowfullscreen="" 
+loading="lazy" 
+referrerpolicy="no-referrer-when-downgrade">
+</iframe>
+
+
+
+<h1><p title="CRICKET">IPL</p></h1> 
+<h1><p title="Fruit">APPLE</p></h1>
+<h1><p title="SPORTS">HOCKEY</p></h1>
+<h1><p title="NATURE">TREE</p></h1>
+<h1><p title="PROFESSION">Software Engineer</p></h1>
+
+</body>
+</html>
